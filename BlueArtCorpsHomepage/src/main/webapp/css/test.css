@@ -1,0 +1,29 @@
+@media screen and (max-width:400px) {
+    .logo{
+      width:50%;
+      height:80px;
+    }
+    .logo span{
+      font : 25px "Open Sans", sans-serif;
+    }
+    .layoutSpacer{
+      display: none;
+    }
+    .login{
+      width:50%;
+      height:8px;
+      text-align : right;
+    }
+    .login > nav{
+      margin : 0% 5%;
+    }
+    .login > nav > a{
+      font : 15px "Open Sans", sans-serif;
+      padding : 0% 2%;
+      text-decoration : none;
+    }
+}
+
+@media screen and (min-width:640px) and (max-width:640px) {
+    .head {background:#fff; font-size:12px; color:#000}
+}
