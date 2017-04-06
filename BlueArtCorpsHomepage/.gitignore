@@ -1,5 +1,9 @@
 reated by https://www.gitignore.io/api/java,maven,eclipse,intellij
 
+### DB info ###
+src/main/webapp/WEB-INF/spring/appServlet/mybatis-servlet.xml
+
+
 ### Eclipse ###
 
 .metadata

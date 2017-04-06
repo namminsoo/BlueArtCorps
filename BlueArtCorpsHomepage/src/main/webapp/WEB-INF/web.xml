@@ -10,6 +10,7 @@
         <param-value>spring/spring-context.xml</param-value>
     </context-param>
 
+
     <!-- Creates the Spring Container shared by all Servlets and Filters -->
     <listener>
         <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
@@ -26,10 +27,16 @@
         <load-on-startup>1</load-on-startup>
     </servlet>
 
+
+
     <servlet-mapping>
         <servlet-name>appServlet</servlet-name>
         <url-pattern>*.do</url-pattern>
     </servlet-mapping>
+
+
+
+
 
 
 
