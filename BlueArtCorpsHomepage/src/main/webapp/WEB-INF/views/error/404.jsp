@@ -10,11 +10,11 @@
 
 <html>
   <head>
-    <title>$Title$</title>
+    <title>잘못된 주소입니다</title>
   </head>
   <body>
 <div>
-  404 error
+  안뇽? 404 error
 
 
 
